@@ -1,9 +1,10 @@
+<!-- omit in toc -->
 # A Rulebook for Argument
 
 This is my short note derived from the [original book](https://www.goodreads.com/book/show/454614.A_Rulebook_for_Arguments) of [Anthony Weston](https://www.goodreads.com/author/show/108624.Anthony_Weston).
 
 -------
-
+<!-- omit in toc -->
 ## Table of Contents
 
 - [Short Arguments](#short-arguments)
